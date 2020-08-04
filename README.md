@@ -1,0 +1,2 @@
+# karatePracts
+Karate- framework demoes
